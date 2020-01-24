@@ -1,0 +1,25 @@
+1)Java 8 interface ::
+ 
+  Static, default methods usecases
+
+2)Stream -->map iteration berfore 8,after streams
+
+3)Spring Boot -> @SpringBootApplication usage
+
+4)what is the need of APP.java
+
+5)Project Structure
+
+6)Roles in project
+
+7)@GetMapping,@PostMapping---->etc.,
+
+8)ArrayList,LinkedList,HashMap,HashTable...usages..differances
+
+9)Synchronized Block usage
+
+10)Spring vs Spring Boot && Annotations used in spring and what annotation used in spring boot
+
+11)Application properties
+
+
