@@ -22,4 +22,6 @@
 
 11)Application properties
 
+12) Comparable vs Camparartor
 
+13)campareTo use
