@@ -1,0 +1,18 @@
+1)Singletone in spring boot?
+2)Spring boot internal working for datasource?
+3)Duplicates removing in arraylist? without using any collections?
+4)Functional Interface?
+5)Spring boot project creation without ide?
+6)profiles in projects?
+7)what will be the default packaging of spring boot? 
+8)How to connect two dbs?
+9)Internal data source?
+10)Streams,lambda expressions,opertors in streams?
+11)what are the annottations used for rest API?
+12)or use used consumer /producer for api url?
+13)client request is to send both json and xml formate for same api request is it possible how?
+14)why ur using rest webservice ?what is the use?
+15)from 3 years onwords are using spring what differance u find?
+16)Junit test cases for private methods?how u can write?
+17)Servlet life cycle?
+18)what is the default mediatype for restAPI?
