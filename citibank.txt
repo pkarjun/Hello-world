@@ -1,0 +1,13 @@
+Immutable class ?
+class not found exception?
+class loading ? exception occured in static block?
+init() and static block which will excutes first?
+exception handling in spring boot?
+Application context is leatest or bean factory is leatest?
+@Autowired constructor and Setter autowiring?
+initialization executes first static block will excutes first in java?
+GC question?
+permanent GC?
+exception propagation?
+we can create variables in interface?
+set how it can't allow duplicates?
